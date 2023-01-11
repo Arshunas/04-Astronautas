@@ -46,7 +46,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/41-grupe-ufo.git
+    git clone https://https://github.com/Arshunas/04-astronautas
     ```
 2. Install NPM packages
     ```sh
@@ -67,7 +67,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/Arshunas)
+Arshunas: [Github](https://github.com/Arshunas)
 
 ## ⚠️ License
 
